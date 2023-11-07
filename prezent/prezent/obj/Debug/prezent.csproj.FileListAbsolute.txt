@@ -1,0 +1,13 @@
+C:\Users\denjl\source\repos\prezent\prezent\bin\Debug\prezent.exe.config
+C:\Users\denjl\source\repos\prezent\prezent\bin\Debug\prezent.exe
+C:\Users\denjl\source\repos\prezent\prezent\bin\Debug\prezent.pdb
+C:\Users\denjl\source\repos\prezent\prezent\obj\Debug\prezent.csproj.AssemblyReference.cache
+C:\Users\denjl\source\repos\prezent\prezent\obj\Debug\prezent.Form1.resources
+C:\Users\denjl\source\repos\prezent\prezent\obj\Debug\prezent.Properties.Resources.resources
+C:\Users\denjl\source\repos\prezent\prezent\obj\Debug\prezent.csproj.GenerateResource.cache
+C:\Users\denjl\source\repos\prezent\prezent\obj\Debug\prezent.csproj.CoreCompileInputs.cache
+C:\Users\denjl\source\repos\prezent\prezent\obj\Debug\prezent.exe
+C:\Users\denjl\source\repos\prezent\prezent\obj\Debug\prezent.pdb
+C:\Users\denjl\source\repos\prezent\prezent\obj\Debug\prezent.Form2.resources
+C:\Users\denjl\source\repos\prezent\prezent\obj\Debug\prezent.Form3.resources
+C:\Users\denjl\source\repos\prezent\prezent\obj\Debug\prezent.Form4.resources
